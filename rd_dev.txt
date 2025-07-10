@@ -1,2 +1,2 @@
-version: 0.0.1
+version: 0.0.0
 RED1: YOKOSO WATASHI NO SOULO SOCIETY 😈
